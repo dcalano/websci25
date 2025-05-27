@@ -2,6 +2,7 @@
 Information and materials related to our paper *GitHub Repository Complexity Leads to Diminished Web Archive Availability* published to Websci '25: Proceedings of the 17th ACM Web Science Conference 2025.
 
 **[DOI](https://doi.org/10.1145/3717867.3717920)**
+**[arXiv](https://arxiv.org/abs/2505.15042)**
 
 ## Authors
 
